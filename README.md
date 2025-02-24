@@ -30,6 +30,10 @@ Ensure **Node.js** is installed. If not, download it from:
 Run the following command in your terminal:  
 ```sh
 npm install -g stegcloak
+```
+
+---
+
 ## 👥 End Users  
 👨‍💻 **Cybersecurity Professionals** - Secure covert communication  
 📰 **Journalists & Whistleblowers** - Hide sensitive information from surveillance  
